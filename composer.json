@@ -1,0 +1,14 @@
+{
+    "name": "ronaldo/laravel-mix-blank-project",
+    "authors": [
+        {
+            "name": "Ronaldo Figueiredo",
+            "email": "ronaldofigueiredojr@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["mix.php"]
+    },
+    "require": {}
+
+}
